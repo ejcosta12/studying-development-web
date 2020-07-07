@@ -2,12 +2,6 @@
   Sistema Repositório de Projetos - Trabalhando conceitos
 </h3>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ejcosta12/studying-project-nodejs">
-  <img alt="javaScript" src="https://img.shields.io/github/languages/top/ejcosta12/studying-project-nodejs">
-  <img alt="Size" src="https://img.shields.io/github/repo-size/ejcosta12/studying-project-nodejs">
-</p>
-
 ## Sobre
 No back-end API desenvolvida para simular a criação, listagem, atualização e exclusão de repositórios no GitHub. Também é possível adicionar like nos repositórios criados. Front-end e mobile fornecem interface para listagem, criação e remoção de repositórios.
 
