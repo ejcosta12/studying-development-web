@@ -3,7 +3,7 @@
 </h3>
 
 ## Sobre
-No back-end API desenvolvida para simular a criação, listagem, atualização e exclusão de repositórios no GitHub. Também é possível adicionar like nos repositórios criados. Front-end e mobile fornecem interface para listagem, criação e remoção de repositórios.
+No back-end, API desenvolvida para simular a criação, listagem, atualização e exclusão de repositórios no GitHub. Também é possível adicionar like nos repositórios criados. Front-end e mobile fornecem interface para listagem, criação e remoção de repositórios.
 
 ### Tecnologias
 
